@@ -1,0 +1,67 @@
+
+
+.inner-banner1{
+     width: 50%;
+    height: 50vh;
+    margin: 10em -3em 0em 0em;
+    text-align: center;
+}
+.banner-header{
+    font-size: 45px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    color:rgb(233, 229, 236);
+    text-shadow: 2px 2px rgb(29, 7, 7);
+
+}
+.banner-paragraph{
+    font-size: 30px;
+    text-align: start;
+    margin-left: 2em;
+    color: #e4e0e4;
+}
+.button-checknow{
+    background: transparent;
+    border: 1px solid brown;
+    color: brown;
+    margin-left: -22em;
+}
+.button-checknow:hover{
+    background-color: brown;
+    color: #fff;
+    border: none;
+}
+.inner-banner2{
+   width: 45%;
+   height: 45vh;
+   margin: 7em 0em 0em 5em;
+   background: url("https://media.istockphoto.com/id/1193750118/photo/beautiful-asian-woman-carrying-colorful-bags-shopping-online-with-mobile-phone.webp?b=1&s=170667a&w=0&k=20&c=J8VH-3bYGHRqot-2zsfkQ-V0BGK4f2pKNIkyQ4DNxhA=");
+   border-radius: 20px;
+}
+.inner-banner2:hover{
+    transform: scale(1.1);
+}
+.inner-div3{
+    display: flex;
+    justify-content: space-evenly;
+    width: 250px;
+    height: 100px;
+    background: #b19999;
+    margin-left: 4em;
+    border-radius: 15px;
+    border: 1px solid #b19999;
+    padding: 10px;
+}
+.small-banner{
+    /* text-align: center; */
+    margin-top: 2.3em ;
+    margin-left: -1em;
+}
+.icons-banner{
+    margin-top: 2.3em ;
+    margin-left: -8em;
+}
+.small-banner2{
+    margin-top: 2.3em ;
+    margin-right: -1.5em;
+}

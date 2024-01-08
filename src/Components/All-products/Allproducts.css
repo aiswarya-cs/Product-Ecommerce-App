@@ -1,0 +1,34 @@
+.allproduct-cart{
+    gap: 10px !important;
+    display: flex;
+    justify-content: space-evenly;
+}
+.addcartbutton{
+    border: 2px solid rgb(122, 23, 23);
+    background: transparent;
+    color: brown;
+}
+.addcartbutton:hover{
+    background: brown !important;
+    color: #fff;
+    border: none;
+}
+Button{
+ display: inline-block;
+ justify-content: space-evenly;
+ margin: 6px;
+}
+.price-button{
+    background-color: #fff;
+    color: brown;
+    border: none;
+    font-size: 25px;
+}
+.price-button:hover{
+    background: transparent !important;
+    color: brown !important;
+}
+.category{
+    text-align: center !important;
+
+}

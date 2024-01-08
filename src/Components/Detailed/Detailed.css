@@ -1,0 +1,38 @@
+.detailed-page{
+    width: 100vw;
+    height: 100vh;
+    background: #f1e8e8;
+    margin-top: 3em;
+    position: absolute;
+}
+.inner-div{
+    position: relative;
+    width: 70vw;
+    height: 80vh;
+    background: rgb(240, 233, 233);
+    margin: 5em 12em;
+
+}
+.detailed-desc{
+    margin-left: 20em;
+    margin-top: -18em;
+}
+.detailed-head{
+    color: brown;
+    font-family:cursive;
+
+}
+.detailed-buttons{
+    border: 1px solid brown;
+    background: transparent;
+    color: brown;
+}
+.detailed-buttons:hover{
+    background: brown !important;
+    color: #fff;
+    border: none;
+}
+.fav-icon{
+    font-size: 30px;
+    color: brown;
+}
